@@ -1,0 +1,32 @@
+div {
+    border:2px solid purple;
+    text-align:center;
+    margin:250px;
+    padding:30px;
+    height:250px;
+    width:250px;
+    color:purple;
+}
+a:link{
+    background-color: purple;
+    color:black;
+}
+a:visited{
+    background-color: aqua;
+    color: beige;
+}
+a img {
+    width: 50px;
+    height: 40px;
+}
+table{
+    width: 50%;
+}
+table, th, td{
+border: 1px solid red;
+border-collapse:collapse;
+}
+/* a:nk{
+    background-color:rgb(153, 14, 153);
+    color:white;
+} */
