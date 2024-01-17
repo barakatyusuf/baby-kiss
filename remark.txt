@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Remark</title>
-</head>
-<body>
-<h1>I am Remarkable</h1>
-<p>I am remarkable because i have sterted learning html.<br>
